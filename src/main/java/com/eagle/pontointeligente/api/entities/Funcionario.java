@@ -196,4 +196,12 @@ public class Funcionario implements Serializable {
 		dataAtualizacao = atual;
 	}
 
+	@Override
+	public String toString() {
+		return "Funcionario [nome=" + nome + ", email=" + email + ", senha=" + senha + ", cpf=" + cpf + ", valorHora="
+				+ valorHora + ", qtdHorasTrabalhoDia=" + qtdHorasTrabalhoDia + ", qtdHorasAlmoco=" + qtdHorasAlmoco
+				+ ", perfil=" + perfil + ", dataCriacao=" + dataCriacao + ", dataAtualizacao=" + dataAtualizacao
+				+ ", empresa=" + empresa + ", lancamento=" + lancamento + "]";
+	}
+
 }
