@@ -2,7 +2,7 @@
 
 
 # ponto-inteligente-api
-API RESTful com Spring Boot e Java 8
+API RESTful para ponto inteligente genérico com Spring Boot e Java 8
 
 # Tecnologias utilizadas
 * MySQL com JPA e Spring Data
