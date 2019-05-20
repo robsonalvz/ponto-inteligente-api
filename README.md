@@ -2,4 +2,12 @@
 
 
 # ponto-inteligente-api
-projeto para ponto inteligente
+API RESTful com Spring Boot e Java 8
+
+# Tecnologias utilizadas
+* MySQL com JPA e Spring Data
+* Flyway
+* JUnit e Mockito
+* TravisCI
+* EhCache
+* Autenticação com tokens JWT (JSON Web Token) com o Spring Security
